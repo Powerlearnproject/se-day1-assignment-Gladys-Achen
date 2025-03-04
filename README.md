@@ -70,7 +70,14 @@ What are some common challenges faced by software engineers? Provide strategies 
 - insufficient funds
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
--Unit tests*
+
+-Unit testing this involves testing individual functions of software in isolation.
+
+-Intergration testing involves testing interactions between different units of the software.
+
+-system testing checks the software as a whole ensuring that all software functions correctly in the complete environment.
+
+-Acceptance testing it verifies that the software meets the business requirements and is ready for release.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
